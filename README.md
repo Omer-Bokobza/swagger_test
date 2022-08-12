@@ -1,2 +1,4 @@
 # swagger_test
-run all the test files together at the bookStore
+two API's
+<br /><br />
+have an allure reports 
